@@ -5,6 +5,8 @@
 </template>
 
 <style lang="postcss">
+/* purgecss start ignore */
+
 @import 'https://fonts.googleapis.com/icon?family=Material+Icons';
 
 html,
@@ -15,4 +17,6 @@ body {
 .material-icons {
   vertical-align: middle;
 }
+
+/* purgecss end ignore */
 </style>
