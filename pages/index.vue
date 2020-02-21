@@ -42,6 +42,10 @@ export default {
       <a href="https://github.com/Akryum/guijs/">
         GitHub repository
       </a>
+
+      <a href="https://twitter.com/guijs_official" class="ml-6">
+        Get updates on Twitter
+      </a>
     </footer>
   </div>
 </template>
