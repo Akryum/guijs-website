@@ -18,7 +18,7 @@ export default {
       <FeatureItem
         title="Project manager"
       >
-        Create and manager all your JS projects
+        Create and manage all your JS projects
       </FeatureItem>
 
       <FeatureItem
